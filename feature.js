@@ -2,4 +2,4 @@ console.log("commit 1")
 
 console.log("commit2")
 
-console.log("commit3")
+console.log("conflict 1")
